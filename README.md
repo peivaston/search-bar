@@ -1,3 +1,11 @@
+Here I am learning to develop a searchBar using Data from Data.json file containing data about Books.
+
+The Source to the video I'm learning from:
+https://www.youtube.com/watch?v=x7niho285qs
+
+Feel free to learn together with me! :)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
